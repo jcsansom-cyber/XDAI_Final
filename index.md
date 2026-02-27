@@ -16,7 +16,7 @@ AI here will help with making the content engaging for students, as well as faci
 
 ----
 
-[^1]: Guardians of Gaia is created by Jaycee Sansom
+Guardians of Gaia is created by Jaycee Sansom
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
