@@ -21,6 +21,7 @@ AI here will help with making the content engaging for students, as well as faci
 The context examined was a large middle school science classroom with approximately 30 students and one teacher. Students are currently taking part in a unit about ecosystems. Students in this unit are expected to learn about ecosystem dynamics (e.g. population, food, biodiversity); the teacher is following New York State’s P-12 Learning Standards (https://www.nysed.gov/sites/default/files/programs/standards-instruction/ms-science-learning-standards.pdf) for the following learning goals:
 - MS-LS2-2. Construct an explanation that predicts patterns of interactions among organisms in a variety of ecosystems.
 - MS-LS2-5. Evaluate competing design solutions for maintaining biodiversity and protecting ecosystem stability.
+
 The teacher has run this unit before, however struggled to maintain student interest in the subject, especially when it comes to running ecosystem simulations. In these simulations, students often work together in groups to explore how population changes in an ecosystem occur. These simulations are often done fairly quickly (~20 minutes) and are done on a computer. Students have an accompanying worksheet to complete with the simulation.
 
 ### Needfinding Method
@@ -84,7 +85,7 @@ Ortolani, K., & Ortolani, A. (2021). GAMES-BASED LEARNING: AN EXPERIENCE REPORT 
 Petousi, D., Katifori, A., Sakellariadis, P., Servi, K., Kougioumtzian, L., Koutiva, G., Roussou, M., & Ioannidis, Y. (2025). The Intersection of Play and History: Integrating Historical Content in Tabletop Role-Playing Games for Education. Proceedings of the 20th International Conference on the Foundations of Digital Games. https://doi.org/10.1145/3723498.3723811.
 Smetana, L. K., & Bell, R. L. (2012). Computer simulations to support science instruction and learning: A critical review of the literature. International Journal of Science Education, 34(9), 1337-1370.
 van Beek, L., Milkoreit, M., Prokopy, L., Reed, J. B., Vervoort, J., Wardekker, A., & Weiner, R. (2022). The effects of serious gaming on risk perceptions of climate tipping points. Climatic Change, 170(3), 31.
----
+--
 
 Guardians of Gaia is created by Jaycee Sansom
 
