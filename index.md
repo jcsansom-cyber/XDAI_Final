@@ -80,10 +80,15 @@ The second implication that has been identified is the need for teacher support.
 
 ## Works Cited
 Ben-Zion, Y., Zarzecki, R. E., Glazer, J., & Finkelstein, N. D. (2025). Leveraging AI for rapid generation of physics simulations in education: Building your own virtual lab. The Physics Teacher, 63(6), 424-427.
+
 Chen, C. H., & Chang, C. L. (2024). Effectiveness of AI-assisted game-based learning on science learning outcomes, intrinsic motivation, cognitive load, and learning behavior. Education and Information Technologies, 29(14), 18621-18642.
+
 Ortolani, K., & Ortolani, A. (2021). GAMES-BASED LEARNING: AN EXPERIENCE REPORT IN TEACHING ENGLISH DURING THE PANDEMIC. Matraga - Revista do Programa de Pós-Graduação em Letras da UERJ, 28.
+
 Petousi, D., Katifori, A., Sakellariadis, P., Servi, K., Kougioumtzian, L., Koutiva, G., Roussou, M., & Ioannidis, Y. (2025). The Intersection of Play and History: Integrating Historical Content in Tabletop Role-Playing Games for Education. Proceedings of the 20th International Conference on the Foundations of Digital Games. https://doi.org/10.1145/3723498.3723811.
+
 Smetana, L. K., & Bell, R. L. (2012). Computer simulations to support science instruction and learning: A critical review of the literature. International Journal of Science Education, 34(9), 1337-1370.
+
 van Beek, L., Milkoreit, M., Prokopy, L., Reed, J. B., Vervoort, J., Wardekker, A., & Weiner, R. (2022). The effects of serious gaming on risk perceptions of climate tipping points. Climatic Change, 170(3), 31.
 --
 
