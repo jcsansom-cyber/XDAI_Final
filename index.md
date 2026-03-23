@@ -90,7 +90,7 @@ Petousi, D., Katifori, A., Sakellariadis, P., Servi, K., Kougioumtzian, L., Kout
 Smetana, L. K., & Bell, R. L. (2012). Computer simulations to support science instruction and learning: A critical review of the literature. International Journal of Science Education, 34(9), 1337-1370.
 
 van Beek, L., Milkoreit, M., Prokopy, L., Reed, J. B., Vervoort, J., Wardekker, A., & Weiner, R. (2022). The effects of serious gaming on risk perceptions of climate tipping points. Climatic Change, 170(3), 31.
---
+
 
 Guardians of Gaia is created by Jaycee Sansom
 
