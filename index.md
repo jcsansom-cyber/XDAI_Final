@@ -46,7 +46,7 @@ These resources were analyzed for the following criteria:
 ### Revised Need Statement
 While the original need statement still holds true, there is a need for refinement as there are more nuanced reasons for the issues. 
 
-Science simulations are often unengaging science; they are simple, guided, lack discovery, and lack collaboration.
+Science simulations are often unengaging in science; they are simple, guided, lack discovery, and lack collaboration.
 
 
 ## Literature Review
