@@ -77,6 +77,54 @@ Two design implications have been identified from the literature. The first is t
 
 The second implication that has been identified is the need for teacher support. Ideally, the system should provide a lot of teacher control, but should not be difficult to use in a classroom. 
 
+## Design Feature List
+### Needs
+- The four agents (feed forward)
+    - Rules Lawyer: Maintains consistency with game rules; fact check player actions
+        - Tools: Dice roller, game rules bible, character sheets, time check
+    - Storyteller: Creates the story
+        - Tools: Character creator, object creator
+    - Expert: Expert over subject; responsible for fact checking and ensuring that the story has the educational content
+        - Tools: Access to worksheet and/or teacher notes; wikipedia
+    - Historian: Maintains the story bible; rewrite story to fit within the story bible
+        - Tools: Story bible
+- Critical functions (tools)
+    - Dice Roller: Roll a dice (random number generator)
+        - Args: Max number
+    - Game rules bible: Access the game rules bible (cannot be written to by agents)
+    - Character sheets: Access player information (history, action, items): can be written by agents
+    - Time check: access current time to make sure game stays within a certain time limit; if it gets close start trying wrap up the story and worksheet (for prototype max time is 10 minutes, but can be overwritten in teacher settings)
+    - Character creator: Create or access an NPC history
+        - Args: traits, appearance, secrets
+    - Object creator: Create or access object information
+        - Args: appearance, history, interactions
+    - Worksheet access: Access (not write) worksheet and/or teacher notes for reference
+    - Wikipedia: use only to access information if additional information is needed
+    - Story Bible: Write and read to the story bible; add character interactions and history of agent returns
+    - Teacher settings: teachers can upload worksheet to be completed with simulation, set learning goals, time limit, and can modify the story (originally set by AI) if needed
+- Voice and chat features
+    - Multiplayer chat (think discord)
+    - Log and direct chat
+
+### Wants
+- Character customization
+- More in depth rules for the game
+- Framework for teacher use
+- Long term history for multi-session use
+
+### Blue Sky
+- Computer vision for map tracking
+- Generative visuals for characters, items, objects, etc.
+
+## Low-Fi Prototype
+### Start Page
+<img src="Start.jpg" alt="Paper prototype of start page">
+
+### Teacher Settings
+<img src="Teacher Settings.jpg" alt="Paper prototype of the teacher settings page">
+
+### Game Page
+<img src="Game.jpg" alt="Paper prototype of the game page">
 
 ## Works Cited
 Ben-Zion, Y., Zarzecki, R. E., Glazer, J., & Finkelstein, N. D. (2025). Leveraging AI for rapid generation of physics simulations in education: Building your own virtual lab. The Physics Teacher, 63(6), 424-427.
