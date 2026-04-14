@@ -118,7 +118,7 @@ The second implication that has been identified is the need for teacher support.
 
 ## Low-Fi Prototype
 ### Start Page
-<img src="Start.jpg" alt="Paper prototype of start page">
+<img src="Start better.jpg" alt="Paper prototype of start page">
 
 ### Teacher Settings
 <img src="Teacher Settings.jpg" alt="Paper prototype of the teacher settings page">
