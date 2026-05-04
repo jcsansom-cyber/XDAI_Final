@@ -127,7 +127,7 @@ The second implication that has been identified is the need for teacher support.
 <img src="Game.jpg" alt="Paper prototype of the game page">
 
 ## High-Fi Prototype
-<a href="https://github.com/jcsansom-cyber/Guardians-of-Gaia-main>Link to Repository</a>
+<a href="https://github.com/jcsansom-cyber/Guardians-of-Gaia-main">Link to Repository</a>
 To run please first run a ollama server in the terminal (instructions for commands are on the teacher settings page) and write the name of the model you are using in the Model Name text area. This works best with llama3.2
 
 ## Evaluation
